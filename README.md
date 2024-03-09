@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![J's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhackhung&show=reviews,discussions_started,prs_merged_percentage&show_icons=true&theme=tokyonight)
 
 
 
